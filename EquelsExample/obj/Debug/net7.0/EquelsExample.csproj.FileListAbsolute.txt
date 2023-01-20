@@ -1,0 +1,15 @@
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/bin/Debug/net7.0/EquelsExample
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/bin/Debug/net7.0/EquelsExample.deps.json
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/bin/Debug/net7.0/EquelsExample.runtimeconfig.json
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/bin/Debug/net7.0/EquelsExample.dll
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/bin/Debug/net7.0/EquelsExample.pdb
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.csproj.AssemblyReference.cache
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.AssemblyInfoInputs.cache
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.AssemblyInfo.cs
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.csproj.CoreCompileInputs.cache
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.dll
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/refint/EquelsExample.dll
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.pdb
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/EquelsExample.genruntimeconfig.cache
+/Users/Yaroslav/RiderProjects/EquelsExample/EquelsExample/obj/Debug/net7.0/ref/EquelsExample.dll
